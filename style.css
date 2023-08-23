@@ -484,8 +484,8 @@ section {
   }
 
 
-  /* footer */
-  .container{
+/* footer */
+.container{
 	max-width: 1170px;
 	margin:auto;
 }
