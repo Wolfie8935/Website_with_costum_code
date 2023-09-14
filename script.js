@@ -33,5 +33,14 @@ for (i = 0; i < faq.length; i++) {
 
 
 
+/* Demo purposes only */
+$(".hover").mouseleave(
+    function() {
+      $(this).removeClass("hover");
+    }
+  );
+
+
+
 
 
