@@ -172,7 +172,7 @@ width: 80%;
 }
 .chose-us{
     padding: 5rem 7%;
-    background-color: turquoise;
+    background-color: white;
 }
 .chose-us h1{
     color: var(--headerclr);
@@ -212,7 +212,7 @@ width: 80%;
 }
 .chose-icon i{
     font-size: 40px;
-    color: white;
+    color: blue;
     transition: .5s;
 }
 .chose-icon i:hover{
@@ -3238,6 +3238,46 @@ body {
   #w-node-_316c570c-0b6c-fb8a-5a7d-6d00db50f04d-5fd37b22, #w-node-_316c570c-0b6c-fb8a-5a7d-6d00db50f04e-5fd37b22 {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
