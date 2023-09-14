@@ -44,7 +44,7 @@ h1{
 }
 
 .header{
-    padding: 2rem 7%;
+    padding: 1rem 7%;
     position: fixed;
     left: 0;
     right: 0;
@@ -64,7 +64,7 @@ h1{
 }
 .nav a{
     color: white;
-    font-size: 1.5rem;
+    font-size: 80%;
     margin-left: 1rem;
 }
 .nav a:hover{
@@ -73,7 +73,7 @@ h1{
 .icon-header div{
     color: white;
     margin-left: 1.5rem;
-    font-size: 2rem;
+    font-size: 80%;
     cursor: pointer;
 }
 .icon-header div:hover{
@@ -262,3 +262,21 @@ ul{
     width: 100%;
 }
 }
+
+
+
+/* whatsapp logo */
+.whatsapp-logo {
+    position: fixed;
+    right: 10px;
+    transform: translate(0, -50%);
+    top: 50%;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  .whatsapp-logo img {
+    width: 80px;
+    height: 80px;
+    display: block;
+  }

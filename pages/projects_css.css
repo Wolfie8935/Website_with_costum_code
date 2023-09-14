@@ -19,6 +19,7 @@ html{
     overflow-x: hidden;
 }
 .header{
+    margin-top: -20px;
     padding: 2rem 7%;
     position: fixed;
     left: 0;
